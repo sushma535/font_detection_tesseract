@@ -1,0 +1,1 @@
+# font_detection_tesseract
